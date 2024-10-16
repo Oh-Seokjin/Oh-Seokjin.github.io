@@ -121,14 +121,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:seokjinoh@hanyang.ac.kr"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/oh-seokjin"
-    - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/seokjinoh/"
-
+      # url: "mailto:your.name@email.com"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/oh-seokjin"
+    # - label: "LinkedIn"
+    #   icon: "fa-brands fa-linkedin"
+    #   url: "https://www.linkedin.com/in/seokjinoh/"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
@@ -156,7 +155,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/oh-seokjin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -166,6 +165,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.linkedin.com/in/seokjinoh/"
 
 
 # Reading Files
