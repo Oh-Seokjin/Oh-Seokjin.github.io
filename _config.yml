@@ -17,19 +17,19 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : # "seokjin oh"
+title                    : "Seokjin Oh"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Seokjin Oh"
+description              : "Master's Student @ Hanyang University"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "oh-seokjin/oh-seokjin.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " "
 breadcrumbs              : # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 80
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Master's Student"
   location         : "Hanyang University, Ansan"
-  email            :
+  email            : "seokjinoh@hanyang.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
