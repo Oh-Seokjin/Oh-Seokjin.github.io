@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Seokjin Oh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/desert.jpg"
   bio              : "Master's Student"
   location         : "Hanyang University, Ansan"
   # email            : "seokjinoh@hanyang.ac.kr"
